@@ -1,0 +1,25 @@
+{
+    "name": "unematiii/wordpress-tests",
+    "description": "WordPress PHPUnit test library",
+    "type": "wordpress-tests",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "WordPress Community",
+            "homepage": "https://wordpress.org/about/"
+        },
+        {
+            "name": "Mati Kärner",
+            "email": "mati@mooncascade.com"
+        }
+    ],
+    "support": {
+        "issues": "https://core.trac.wordpress.org/",
+        "wiki": "https://codex.wordpress.org/",
+        "source": "https://develop.svn.wordpress.org/trunk/tests/phpunit/includes"
+    },
+    "require": {
+        "composer/installers": "^1.0",
+        "aaemnnosttv/wordpress-tests-core-installer": "~0.1"
+    }
+}

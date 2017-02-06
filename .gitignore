@@ -1,0 +1,5 @@
+# Dot files
+.DS_Store
+.buildpath
+.project
+.settings
